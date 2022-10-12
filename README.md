@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there%2C+I'm+Touhidur+Rahman" alt="Typing SVG" /></a>
 </h1>
 
+
 ### 👨‍💻 About Me :
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh
 - :telescope: I’m working as a Lead Programmer at Lynkto LTD.
@@ -9,14 +10,14 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: Top-Rated freelancer at Upwork
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Upwork-brightgreen?logo=upwork&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
