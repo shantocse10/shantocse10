@@ -13,7 +13,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Upwork-brightgreen?logo=upwork&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://fiverr.com/users/shantocse">
     <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-linkedin-URL">
@@ -36,3 +36,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantocse10&show_icons=true&theme=dark&count_private=true)
