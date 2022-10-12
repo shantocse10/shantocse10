@@ -10,14 +10,14 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: Top-Rated freelancer at Upwork
 
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Upwork-brightgreen?logo=upwork&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.upwork.com/freelancers/~01683130fbac8b6df8" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-brightgreen?logo=upwork&logoColor=white"/>
   </a>
   <a href="https://fiverr.com/users/shantocse" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/shantocse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
