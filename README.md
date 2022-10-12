@@ -13,7 +13,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Upwork-brightgreen?logo=upwork&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://fiverr.com/users/shantocse">
+  <a href="https://fiverr.com/users/shantocse" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-green?logo=fiverr&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-linkedin-URL">
